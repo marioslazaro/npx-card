@@ -3,7 +3,6 @@
   "version": "1.0.7",
   "description": "",
   "main": "card.js",
-  "type": "module",
   "bin": {
     "marioslazaro": "./card.js"
   },
@@ -14,18 +13,12 @@
   "scripts": {
     "test": "node card.js"
   },
-  "keywords": [],
+  "keywords": ["bussiness card", "npm card"],
   "author": "Mario Lazaro",
   "license": "ISC",
   "dependencies": {
-    "boxen": "^7.1.0",
-    "chalk": "^5.2.0",
-    "clear": "^0.1.0",
-    "inquirer": "^9.2.7",
-    "node-fetch": "^2.6.7",
-    "open": "^9.1.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.14.9"
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "star-wars-quotes": "^1.0.2"
   }
 }
