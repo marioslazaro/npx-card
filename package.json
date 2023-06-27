@@ -3,13 +3,19 @@
   "version": "1.0.6",
   "description": "",
   "main": "card.js",
-  "bin": "./card.js",
   "type": "module",
+  "bin": {
+    "marioslazaro": "./card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioslazaro/npx-card"
+  },
   "scripts": {
-    "dev": "node card.js"
+    "test": "node card.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mario Lazaro",
   "license": "ISC",
   "dependencies": {
     "boxen": "^7.1.0",
@@ -20,6 +26,6 @@
     "open": "^9.1.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^1.14.9"
   }
 }
