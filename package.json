@@ -5,7 +5,7 @@
   "main": "card.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon card.js"
+    "dev": "node card.js"
   },
   "keywords": [],
   "author": "",
