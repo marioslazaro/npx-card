@@ -1,6 +1,6 @@
 {
   "name": "marioslazaro",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "card.js",
   "bin": {
@@ -13,7 +13,10 @@
   "scripts": {
     "test": "node card.js"
   },
-  "keywords": ["bussiness card", "npm card"],
+  "keywords": [
+    "bussiness card",
+    "npm card"
+  ],
   "author": "Mario Lazaro",
   "license": "ISC",
   "dependencies": {
