@@ -11,7 +11,7 @@ const data = {
 
     github: chalk.gray("https://github.com/") + chalk.blue("marioslazaro"),
     twitter: chalk.gray("https://twitter.com/") + chalk.cyanBright("haka_dev"),
-    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.green("marioslazaro"),
+    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.green("marioslazaro/"),
 
     npx: chalk.red("npx marioslazaro"),
 
