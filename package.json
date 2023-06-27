@@ -1,10 +1,9 @@
 {
   "name": "marioslazaro",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "card.js",
   "bin": "card.js",
-
   "type": "module",
   "scripts": {
     "dev": "node card.js"
